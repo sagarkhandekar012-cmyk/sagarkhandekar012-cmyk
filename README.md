@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sagar Khandekar</h1>
-<h3 align="center">Actively seeking opportunities as a Software Tester</h3>
+<h3 align="center">Actively seeking opportunities as a Automation Software Tester</h3>
 
 - 🔭 I’m currently working on **Web WhatsApp testing**
 
