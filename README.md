@@ -3,7 +3,7 @@
 
 - 🧪 ~8+ months of professional experience as a **Manual QA Tester** — Functional, Regression, UI, Smoke, and API Testing on web & mobile apps
 
-- 🔭 Currently testing a multi-role booking & e-commerce platform (**AmozIT**) at work, and practicing automation on **Web WhatsApp** in my own time
+- 🔭 Currently working on the **AmozIT** project — a multi-role booking & e-commerce platform — manual testing at work, and practicing automation testing with **Playwright**
 
 - 🌱 Currently deepening my skills in **Selenium WebDriver, TestNG, Java, Playwright, and SQL/Relational Databases**
 
