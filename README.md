@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sagar Khandekar</h1>
-<h3 align="center">Software Tester | Manual QA + Growing Automation Skills (Selenium & Playwright)</h3>
+<h3 align="center">Software Tester | Manual QA + Test Automation (Playwright & Selenium)</h3>
 
-- 🧪 ~8+ months of professional experience as a **Manual QA Tester** — Functional, Regression, UI, Smoke, and API Testing on web & mobile apps
+- 🧪 ~10 months of professional experience as a **Software Tester** — Manual, Functional, Regression, UI, Smoke, and API Testing on web & mobile apps
 
-- 🔭 Currently working on the **AmozIT** project — a multi-role booking & e-commerce platform — manual testing at work, and practicing automation testing with **Playwright**
+- 🔭 Currently working on the **AmozIT** project — a multi-role booking & e-commerce platform: manual testing at work, plus automation with **Playwright**
 
-- 🌱 Currently deepening my skills in **Selenium WebDriver, TestNG, Java, Playwright, and SQL/Relational Databases**
+- 🚀 Building UI automation with **Playwright (JavaScript)** — **Page Object Model**, hooks, assertions — and **Selenium (Java + TestNG)**
 
-- 🚀 Building UI automation scripts and test suites using **Playwright (JavaScript)** and **Selenium (Java + TestNG)**
+- ⚙️ Set up a **GitHub Actions** CI workflow to run Playwright tests automatically
+
+- 🌱 Currently learning: **Load testing with k6** (just started), plus deepening **Selenium, TestNG, Java, and SQL**
 
 - 📚 IBM-certified in **SQL and Relational Databases** (Cognitive Class / IBM Skills Network)
 
@@ -31,6 +33,8 @@
   <a href="https://playwright.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="playwright" width="40" height="40"/> </a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="github actions" width="40" height="40"/> </a>
+  <a href="https://k6.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/k6/7D64FF" alt="k6" width="40" height="40"/> </a>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagarkhandekar012-cmyk&show_icons=true&locale=en&layout=compact" alt="sagarkhandekar012-cmyk" /></p>
