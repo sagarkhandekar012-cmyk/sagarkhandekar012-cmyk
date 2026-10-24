@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sagar Khandekar</h1>
 <h3 align="center">Software Tester | Manual QA + Test Automation (Playwright & Selenium)</h3>
 
-- 🧪 ~10 months of professional experience as a **Software Tester** — Manual, Functional, Regression, UI, Smoke, and API Testing on web & mobile apps.
+- 🧪 ~10 months of professional experience as a **Software Tester** — Manual, Functional, Regression, UI, Smoke, and API Testing on web & mobile apps
 
 - 🔭 Currently working on the **AmozIT** project — a multi-role booking & e-commerce platform: manual testing at work, plus automation with **Playwright**
 
