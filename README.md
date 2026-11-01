@@ -12,8 +12,9 @@ I'm a Software Tester with ~10 months of professional experience testing web and
 - 🔭 **Currently working on:** AmozIT — a multi-role booking & e-commerce platform — manual testing plus Playwright automation
 - 🚀 **Automation:** Playwright (JavaScript) with Page Object Model, hooks, and assertions; Selenium WebDriver with Java and TestNG
 - ⚙️ **CI:** GitHub Actions workflow to run Playwright tests automatically
+- 📈 **Load testing:** k6 scripts covering virtual users (VUs), GET requests, and POST requests
 - 📚 **Certified:** SQL and Relational Databases (IBM Skills Network / Cognitive Class)
-- 🌱 **Learning now:** Load testing with k6 (just started), and going deeper into Selenium, TestNG, and Java
+- 🌱 **Learning now:** going deeper into k6 performance testing, Selenium, TestNG, and Java
 
 ---
 
@@ -21,6 +22,7 @@ I'm a Software Tester with ~10 months of professional experience testing web and
 
 | Repository | What it is |
 |---|---|
+| [K6_loadTesting](https://github.com/sagarkhandekar012-cmyk/K6_loadTesting) | k6 load-testing scripts for virtual users (VUs), GET requests, and POST requests |
 | [readyPlaywright-](https://github.com/sagarkhandekar012-cmyk/readyPlaywright-) | Playwright test project with a `tests` folder, Playwright config, and a GitHub Actions workflow |
 | [webwhatsapptest](https://github.com/sagarkhandekar012-cmyk/webwhatsapptest) | Selenium + Java + TestNG automation for WhatsApp Web: core UI elements, QR code visibility, page title, page loading |
 | [sagar_pro](https://github.com/sagarkhandekar012-cmyk/sagar_pro) | Daily practice test cases for websites using Selenium, TestNG, and Java |
@@ -34,6 +36,7 @@ I'm a Software Tester with ~10 months of professional experience testing web and
 
 **Testing:** Manual Testing • Functional • Regression • Smoke & Sanity • UI • Integration • API • Negative & Boundary • Cross-Browser • Mobile
 **Automation:** Playwright (JavaScript) • Selenium WebDriver (Java) • TestNG • Page Object Model • GitHub Actions
+**Performance:** k6 load testing
 **Tools:** Jira • Bugzilla • Postman • Figma • LambdaTest • Git / GitHub
 **Process:** Agile / Scrum • SDLC • STLC • Defect Life Cycle • Test Case Design
 **Database:** SQL (IBM-certified)
@@ -49,6 +52,7 @@ I'm a Software Tester with ~10 months of professional experience testing web and
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="github actions" width="40" height="40"/> </a>
+  <a href="https://k6.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/k6/7D64FF" alt="k6" width="40" height="40"/> </a>
 </p>
 
 ---
