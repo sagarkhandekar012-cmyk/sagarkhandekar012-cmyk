@@ -6,7 +6,7 @@
 <h3>🧪 Software Tester &nbsp;|&nbsp; Manual QA & Test Automation 🤖</h3>
 
 <a href="https://github.com/sagarkhandekar012-cmyk">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00B8D9&center=true&vCenter=true&width=700&height=45&lines=Manual+QA+%26+Test+Automation;Playwright+%7C+Selenium+%7C+k6;Finding+gaps+before+they+become+bugs;Open+to+work+%E2%80%94+Immediate+joiner" alt="Manual QA & Test Automation | Playwright | Selenium | k6" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00B8D9&center=true&vCenter=true&width=700&height=45&lines=Manual+QA+%26+Test+Automation;Playwright+%7C+Selenium+%7C+k6;MCP-Driven+AI+Test+Generation;Open+to+work+%E2%80%94+Immediate+joiner" alt="Manual QA & Test Automation | Playwright | Selenium | k6 | MCP" />
 </a>
 
 <br/><br/>
@@ -21,17 +21,17 @@
 
 ## 👋 About Me
 
-I'm a **Software Tester** with ~10 months of professional experience testing web and mobile applications. I like finding gaps in business logic early, writing clear defect reports, and automating the checks I repeat most.
+I'm a **Software Tester** with professional experience testing web and mobile applications. I specialize in finding gaps in business logic early, writing clear defect reports, and building robust test automation frameworks using **Playwright (TypeScript)**, **Selenium**, and **Model Context Protocol (MCP)** for efficient AI-assisted test generation.
 
 | | |
 |---|---|
 | 🧪 **Testing** | Functional • Regression • Smoke • UI • Integration • API (Postman) |
-| 🔭 **Working on** | **AmozIT**, a multi-role booking & e-commerce platform: manual testing plus Playwright automation |
-| 🚀 **Automation** | Playwright (JavaScript) with Page Object Model, hooks & assertions • Selenium (Java + TestNG) |
-| ⚙️ **CI** | GitHub Actions workflow that runs Playwright tests automatically |
-| 📈 **Performance** | k6 load-testing scripts: virtual users (VUs), GET and POST requests |
-| 📚 **Certified** | SQL and Relational Databases, IBM Skills Network / Cognitive Class |
-| 🌱 **Learning** | Going deeper into k6, Selenium, TestNG and Java |
+| 🤖 **Modern QA** | **Model Context Protocol (MCP)** for automated DOM inspection & AI-driven Playwright test generation |
+| 🔭 **Working on** | **AmozIT** (booking & e-commerce platform) & Advanced Playwright + TypeScript test suites |
+| 🚀 **Automation** | Playwright (TypeScript/JavaScript) with Page Object Model (POM) & hooks • Selenium (Java + TestNG) |
+| ⚙️ **CI/CD** | GitHub Actions workflows for automated regression execution |
+| 📈 **Performance** | k6 load-testing scripts: virtual users (VUs), GET/POST requests & threshold analysis |
+| 🌱 **Learning** | Deepening expertise in TypeScript, Page Object Architectures, and advanced k6 load testing |
 
 ---
 
@@ -41,74 +41,8 @@ I'm a **Software Tester** with ~10 months of professional experience testing web
 flowchart LR
     A["📄 Requirements"] --> B["🔎 Find logic gaps"]
     B --> C["📝 Test cases"]
-    C --> D["▶️ Execute"]
+    C --> D["🤖 MCP & Manual Execution"]
     D --> E["🐞 Report defects"]
     E --> F["🔁 Retest and regression"]
-    F --> G["🤖 Automate repeatable checks"]
-```
-
-- 🔎 **Question the logic first.** I look for gaps between the intended business logic and what is being built, and raise them before development is approved.
-- 🐞 **Report clearly.** Every defect goes to the developer with enough detail to act on, then I retest the fix.
-- 🔁 **Protect what already works.** After each fix I check that nothing else in the product broke.
-- 🤖 **Automate the repeatable.** Login flows, tables, dropdowns and file uploads become Playwright tests I can re-run any time.
-
----
-
-## 🛠️ Tech Stack
-
-**🤖 Automation**
-
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-FF6600?style=for-the-badge)
-![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-**🧪 Testing & Tools**
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Bugzilla](https://img.shields.io/badge/Bugzilla-444444?style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**💻 Languages & Data**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-**📋 Process:** Agile / Scrum • SDLC • STLC • Defect Life Cycle • Test Case Design
-
----
-
-## 📂 Featured Projects
-
-| Project | What it does |
-|---|---|
-| 📈 [**K6_loadTesting**](https://github.com/sagarkhandekar012-cmyk/K6_loadTesting) | k6 load-testing scripts for virtual users (VUs), GET requests and POST requests |
-| 🎭 [**readyPlaywright-**](https://github.com/sagarkhandekar012-cmyk/readyPlaywright-) | Playwright test project with a `tests` folder, Playwright config and a GitHub Actions workflow |
-| 💬 [**webwhatsapptest**](https://github.com/sagarkhandekar012-cmyk/webwhatsapptest) | Selenium + Java + TestNG automation for WhatsApp Web: core UI elements, QR code visibility, page title and page loading |
-| 🧩 [**sagar_pro**](https://github.com/sagarkhandekar012-cmyk/sagar_pro) | Daily practice test cases for websites using Selenium, TestNG and Java |
-| 📝 [**seleniumjava-**](https://github.com/sagarkhandekar012-cmyk/seleniumjava-) | Assignment test cases written with Java, Selenium and TestNG |
-| 🔍 [**anudeep-assingnment**](https://github.com/sagarkhandekar012-cmyk/anudeep-assingnment) | Testing code for a website assignment using different testing methods |
-| 📋 [**manual_testcases_on_bigsunpage**](https://github.com/sagarkhandekar012-cmyk/manual_testcases_on_bigsunpage) | Manual test cases written for the BigSun Technologies website |
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-I'm open to **Software Tester / QA Engineer** roles and can **join immediately**.<br/>
-If your team is hiring, or you can refer me, I'd love to hear from you.
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Message%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sagar-khandekar-623m)
-[![Email](https://img.shields.io/badge/Email-Write%20to%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagarkhandekar012@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" alt="" width="100%"/>
-
-</div>
+    F --> G["🚀 Automate & Scale"]
+🔎 Question the logic first: I look for gaps between intended business logic and implementation before development sign-off.🤖 MCP-Driven Automation: Utilizing Model Context Protocol (MCP) servers to inspect live DOM structures, validate selectors securely, and generate reliable Playwright specs.🐞 Report clearly: Every defect is documented with precise reproduction details, logs, and screenshots.🔁 Protect core features: Rigorous regression testing ensures new code releases do not break existing functionality.🛠️ Tech Stack🤖 Automation & AI Tools🧪 Testing & Collaboration Tools💻 Languages & Database📂 Featured ProjectsRepositoryDescription🎭 playwright_MCPAdvanced Playwright test generation framework utilizing Model Context Protocol (MCP) server configurations🏢 POC_Playwright_MCP_orangehrmData-driven testing & Page Object Model (POM) automation suite built for OrangeHRM📈 K6_loadTestingPerformance & load testing scripts measuring virtual user concurrency, response times, and throughput💬 webwhatsapptestSelenium + Java + TestNG automation verifying UI elements and page loading states🧩 sagar_proDaily automation practice test suite using Selenium and Java📫 Let's ConnectI'm actively looking for Software Tester / QA Engineer roles and can join immediately.If your team values robust automation, clean testing workflows, and modern tooling like MCP, let's connect!
