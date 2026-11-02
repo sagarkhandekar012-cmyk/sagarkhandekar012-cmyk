@@ -21,16 +21,17 @@
 
 ## 👋 About Me
 
-I'm a **Software Tester** with professional experience testing web and mobile applications. I specialize in finding gaps in business logic early, writing clear defect reports, and building robust test automation frameworks using **Playwright (TypeScript)**, **Selenium**, and **Model Context Protocol (MCP)** for efficient AI-assisted test generation.
+I'm a **Software Tester** with professional experience testing web and mobile applications. I like finding gaps in business logic early, writing clear defect reports, and building robust test automation frameworks using **Playwright (TypeScript)**, **Selenium**, and **Model Context Protocol (MCP)** for efficient AI-assisted test generation.
 
 | | |
 |---|---|
 | 🧪 **Testing** | Functional • Regression • Smoke • UI • Integration • API (Postman) |
 | 🤖 **Modern QA** | **Model Context Protocol (MCP)** for automated DOM inspection & AI-driven Playwright test generation |
-| 🔭 **Working on** | **AmozIT** (booking & e-commerce platform) & Advanced Playwright + TypeScript test suites |
-| 🚀 **Automation** | Playwright (TypeScript/JavaScript) with Page Object Model (POM) & hooks • Selenium (Java + TestNG) |
-| ⚙️ **CI/CD** | GitHub Actions workflows for automated regression execution |
-| 📈 **Performance** | k6 load-testing scripts: virtual users (VUs), GET/POST requests & threshold analysis |
+| 🔭 **Working on** | **AmozIT**, a multi-role booking & e-commerce platform: manual testing plus Playwright & MCP automation |
+| 🚀 **Automation** | Playwright (TypeScript/JavaScript) with Page Object Model (POM), hooks & assertions • Selenium (Java + TestNG) |
+| ⚙️ **CI/CD** | GitHub Actions workflows that run Playwright tests automatically |
+| 📈 **Performance** | k6 load-testing scripts: virtual users (VUs), GET and POST requests |
+| 📚 **Certified** | SQL and Relational Databases, IBM Skills Network / Cognitive Class |
 | 🌱 **Learning** | Deepening expertise in TypeScript, Page Object Architectures, and advanced k6 load testing |
 
 ---
@@ -39,10 +40,10 @@ I'm a **Software Tester** with professional experience testing web and mobile ap
 
 ```mermaid
 flowchart LR
-    A["📄 Requirements"] --> B["🔎 Find logic gaps"]
-    B --> C["📝 Test cases"]
-    C --> D["🤖 MCP & Manual Execution"]
-    D --> E["🐞 Report defects"]
-    E --> F["🔁 Retest and regression"]
-    F --> G["🚀 Automate & Scale"]
-🔎 Question the logic first: I look for gaps between intended business logic and implementation before development sign-off.🤖 MCP-Driven Automation: Utilizing Model Context Protocol (MCP) servers to inspect live DOM structures, validate selectors securely, and generate reliable Playwright specs.🐞 Report clearly: Every defect is documented with precise reproduction details, logs, and screenshots.🔁 Protect core features: Rigorous regression testing ensures new code releases do not break existing functionality.🛠️ Tech Stack🤖 Automation & AI Tools🧪 Testing & Collaboration Tools💻 Languages & Database📂 Featured ProjectsRepositoryDescription🎭 playwright_MCPAdvanced Playwright test generation framework utilizing Model Context Protocol (MCP) server configurations🏢 POC_Playwright_MCP_orangehrmData-driven testing & Page Object Model (POM) automation suite built for OrangeHRM📈 K6_loadTestingPerformance & load testing scripts measuring virtual user concurrency, response times, and throughput💬 webwhatsapptestSelenium + Java + TestNG automation verifying UI elements and page loading states🧩 sagar_proDaily automation practice test suite using Selenium and Java📫 Let's ConnectI'm actively looking for Software Tester / QA Engineer roles and can join immediately.If your team values robust automation, clean testing workflows, and modern tooling like MCP, let's connect!
+    A["Requirements"] --> B["Find logic gaps"]
+    B --> C["Test cases"]
+    C --> D["MCP & Execution"]
+    D --> E["Report defects"]
+    E --> F["Retest & Regression"]
+    F --> G["Automate & Scale"]
+🔎 Question the logic first: I look for gaps between the intended business logic and what is being built, and raise them before development is approved.🤖 MCP-Driven Automation: Utilizing Model Context Protocol (MCP) servers to inspect live DOM structures, validate selectors securely, and generate reliable Playwright specs.🐞 Report clearly: Every defect goes to the developer with enough detail to act on, then I retest the fix.🔁 Protect what already works: After each fix I check that nothing else in the product broke.🚀 Automate the repeatable: Login flows, tables, dropdowns, and file uploads become Playwright tests I can re-run any time.🛠️ Tech Stack🤖 Automation & AI Tools🧪 Testing & Tools💻 Languages & Data📋 Process: Agile / Scrum • SDLC • STLC • Defect Life Cycle • Test Case Design📂 Featured ProjectsProjectWhat it does🎭 playwright_MCPAdvanced Playwright test generation framework utilizing Model Context Protocol (MCP) server configurations🏢 POC_Playwright_MCP_orangehrmData-driven testing & Page Object Model (POM) automation suite built for OrangeHRM📈 K6_loadTestingk6 load-testing scripts for virtual users (VUs), GET requests and POST requests🎭 readyPlaywright-Playwright test project with a tests folder, Playwright config and a GitHub Actions workflow💬 webwhatsapptestSelenium + Java + TestNG automation for WhatsApp Web: core UI elements, QR code visibility, page title and page loading🧩 sagar_proDaily practice test cases for websites using Selenium, TestNG and Java📝 seleniumjava-Assignment test cases written with Java, Selenium and TestNG🔍 anudeep-assingnmentTesting code for a website assignment using different testing methods📋 manual_testcases_on_bigsunpageManual test cases written for the BigSun Technologies website📫 Let's ConnectI'm open to Software Tester / QA Engineer roles and can join immediately.If your team is hiring, or you can refer me, I'd love to hear from you.
