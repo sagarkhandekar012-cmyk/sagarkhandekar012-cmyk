@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=header" alt="" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:00c6ff&height=170&section=header" alt="" width="100%"/>
 
 <h1>Hi 👋, I'm Sagar Khandekar</h1>
-<h3>🧪 Software Tester &nbsp;|&nbsp; Manual QA & Test Automation 🤖</h3>
+<h3>🧪 Software Tester &nbsp;•&nbsp; 🤖 Test Automation &nbsp;•&nbsp; 📈 Load Testing</h3>
 
 <a href="https://github.com/sagarkhandekar012-cmyk">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00B8D9&center=true&vCenter=true&width=700&height=45&lines=Manual+QA+%26+Test+Automation;Playwright+%7C+Selenium+%7C+k6;AI-assisted+tests+with+Playwright+MCP;Finding+gaps+before+they+become+bugs;Open+to+work+%E2%80%94+Immediate+joiner" alt="Manual QA & Test Automation | Playwright | Selenium | k6" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2575FC&center=true&vCenter=true&width=720&height=50&lines=If+it+can+break%2C+I+want+to+find+it+first;Manual+QA+%26+Test+Automation;Playwright+%7C+Selenium+%7C+k6;AI-assisted+tests+with+Playwright+MCP;Open+to+work+%E2%80%94+Immediate+joiner" alt="If it can break, I want to find it first" />
 </a>
 
 <br/><br/>
@@ -17,41 +17,67 @@
 
 </div>
 
----
-
-## 👋 About Me
-
-I'm a **Software Tester** with ~10 months of professional experience testing web and mobile applications. I like finding gaps in business logic early, writing clear defect reports, and automating the checks I repeat most.
-
-| | |
-|---|---|
-| 🧪 **Testing** | Functional • Regression • Smoke • UI • Integration • API (Postman) |
-| 🔭 **Working on** | **AmozIT**, a multi-role booking & e-commerce platform: manual testing plus Playwright automation |
-| 🚀 **Automation** | Playwright (JavaScript) with Page Object Model, hooks & assertions • Selenium (Java + TestNG) |
-| 🧠 **AI-assisted testing** | Playwright MCP (Model Context Protocol) to generate test cases, guided by system and POM context files |
-| ⚙️ **CI** | GitHub Actions workflow that runs Playwright tests automatically |
-| 📈 **Performance** | k6 load-testing scripts: virtual users (VUs), GET and POST requests |
-| 📚 **Certified** | SQL and Relational Databases, IBM Skills Network / Cognitive Class |
-| 🌱 **Learning** | Going deeper into k6, Selenium, TestNG and Java |
+> [!TIP]
+> 🟢 **I'm open to Software Tester / QA Engineer roles and can join immediately.** If your team is hiring, or you can refer me, please reach out.
 
 ---
 
-## 🧭 My Testing Workflow
+## 🚀 What I Do
+
+<table align="center">
+<tr>
+<td align="center" width="33%" valign="top">
+<h3>🧪 Manual QA</h3>
+<p>Functional • Regression • Smoke • UI • Integration • API testing<br/><br/>
+Defects tracked in <b>Jira</b> and <b>Bugzilla</b>, APIs checked in <b>Postman</b></p>
+</td>
+<td align="center" width="33%" valign="top">
+<h3>🤖 Automation</h3>
+<p><b>Playwright</b> (JavaScript) with Page Object Model, hooks and assertions<br/><br/>
+<b>Selenium</b> (Java + TestNG) • <b>GitHub Actions</b> CI</p>
+</td>
+<td align="center" width="33%" valign="top">
+<h3>📈 Performance & AI</h3>
+<p><b>k6</b> load-testing scripts: virtual users (VUs), GET and POST requests<br/><br/>
+<b>Playwright MCP</b> to help generate test cases</p>
+</td>
+</tr>
+</table>
+
+<br/>
+
+- 🔭 **Working on:** **AmozIT**, a multi-role booking & e-commerce platform: manual testing plus Playwright automation
+- 📚 **Certified:** SQL and Relational Databases, IBM Skills Network / Cognitive Class
+- 🌱 **Learning:** going deeper into k6, Selenium, TestNG and Java
+
+---
+
+## 🗺️ My QA Journey
+
+```mermaid
+timeline
+    title From graduate to automation
+    2024 : Completed BCA
+    Dec 2025 : Joined as a Software Tester
+    2026 : Playwright with POM and hooks : GitHub Actions CI workflow : IBM SQL certification : k6 load testing : Playwright MCP test generation
+```
+
+---
+
+## 🧭 How I Test
 
 ```mermaid
 flowchart LR
-    A["📄 Requirements"] --> B["🔎 Find logic gaps"]
-    B --> C["📝 Test cases"]
-    C --> D["▶️ Execute"]
-    D --> E["🐞 Report defects"]
-    E --> F["🔁 Retest and regression"]
-    F --> G["🤖 Automate repeatable checks"]
+    A["📄 Requirements"] --> B["🔎 Find logic gaps"] --> C["📝 Test cases"] --> D["▶️ Execute"] --> E["🐞 Report defects"] --> F["🔁 Retest + regression"] --> G["🤖 Automate"]
+    classDef n fill:#2575fc,stroke:#6a11cb,color:#ffffff,stroke-width:2px;
+    class A,B,C,D,E,F,G n;
 ```
 
-- 🔎 **Question the logic first.** I look for gaps between the intended business logic and what is being built, and raise them before development is approved.
-- 🐞 **Report clearly.** Every defect goes to the developer with enough detail to act on, then I retest the fix.
-- 🔁 **Protect what already works.** After each fix I check that nothing else in the product broke.
-- 🤖 **Automate the repeatable.** Login flows, tables, dropdowns and file uploads become Playwright tests I can re-run any time, and I use Playwright MCP to help write test cases.
+> 🔎 **Question the logic first.** I look for gaps between the intended business logic and what is being built, and raise them before development is approved.
+>
+> 🐞 **Report clearly, then retest.** Every defect goes to the developer with enough detail to act on, and I check that the fix didn't break anything else.
+>
+> 🤖 **Automate the repeatable.** Login flows, tables, dropdowns and file uploads become Playwright tests I can re-run any time.
 
 ---
 
@@ -87,31 +113,28 @@ flowchart LR
 
 ## 📂 Featured Projects
 
-| Project | What it does |
-|---|---|
-| 📈 [**K6_loadTesting**](https://github.com/sagarkhandekar012-cmyk/K6_loadTesting) | k6 load-testing scripts for virtual users (VUs), GET requests, and POST requests |
-| 🧠 [**playwright_MCP**](https://github.com/sagarkhandekar012-cmyk/playwright_MCP) | Test generation with Playwright MCP: a `tests` folder plus system-context and POM-context files that guide the generator |
-| 🎭 [**readyPlaywright-**](https://github.com/sagarkhandekar012-cmyk/readyPlaywright-) | Playwright test project with a `tests` folder, Playwright config, and a GitHub Actions workflow |
-| 💬 [**webwhatsapptest**](https://github.com/sagarkhandekar012-cmyk/webwhatsapptest) | Selenium + Java + TestNG automation for WhatsApp Web: core UI elements, QR code visibility, page title and page loading |
-| 🧩 [**sagar_pro**](https://github.com/sagarkhandekar012-cmyk/sagar_pro) | Daily practice test cases for websites using Selenium, TestNG and Java |
-| 📝 [**seleniumjava-**](https://github.com/sagarkhandekar012-cmyk/seleniumjava-) | Assignment test cases written with Java, Selenium and TestNG |
-| 🔍 [**anudeep-assingnment**](https://github.com/sagarkhandekar012-cmyk/anudeep-assingnment) | Testing code for a website assignment using different testing methods |
-| 📋 [**manual_testcases_on_bigsunpage**](https://github.com/sagarkhandekar012-cmyk/manual_testcases_on_bigsunpage) | Manual test cases written for the BigSun Technologies website |
+| Project | What it does | Tech |
+|---|---|---|
+| 📈 [**K6_loadTesting**](https://github.com/sagarkhandekar012-cmyk/K6_loadTesting) | Load-testing scripts for virtual users (VUs), GET requests and POST requests | ![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square) |
+| 🧠 [**playwright_MCP**](https://github.com/sagarkhandekar012-cmyk/playwright_MCP) | Test generation with Playwright MCP, guided by system-context and POM-context files | ![Playwright MCP](https://img.shields.io/badge/Playwright%20MCP-6E40C9?style=flat-square) |
+| 🎭 [**readyPlaywright-**](https://github.com/sagarkhandekar012-cmyk/readyPlaywright-) | Playwright project with a `tests` folder, config and a GitHub Actions workflow | ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square) ![CI](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square) |
+| 💬 [**webwhatsapptest**](https://github.com/sagarkhandekar012-cmyk/webwhatsapptest) | WhatsApp Web automation: core UI elements, QR code visibility, page title, page loading | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square) ![TestNG](https://img.shields.io/badge/TestNG-FF6600?style=flat-square) |
+| 🧩 [**sagar_pro**](https://github.com/sagarkhandekar012-cmyk/sagar_pro) | Daily practice test cases for websites | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square) ![TestNG](https://img.shields.io/badge/TestNG-FF6600?style=flat-square) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square) |
+| 📝 [**seleniumjava-**](https://github.com/sagarkhandekar012-cmyk/seleniumjava-) | Assignment test cases written with Java, Selenium and TestNG | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square) |
+| 🔍 [**anudeep-assingnment**](https://github.com/sagarkhandekar012-cmyk/anudeep-assingnment) | Testing code for a website assignment using different testing methods | ![Testing](https://img.shields.io/badge/Testing-555555?style=flat-square) |
+| 📋 [**manual_testcases_on_bigsunpage**](https://github.com/sagarkhandekar012-cmyk/manual_testcases_on_bigsunpage) | Manual test cases written for the BigSun Technologies website | ![Manual](https://img.shields.io/badge/Manual%20Testing-2ea44f?style=flat-square) |
 
 ---
 
-## 📫 Let's Connect
-
 <div align="center">
 
-I'm open to **Software Tester / QA Engineer** roles and can **join immediately**.<br/>
-If your team is hiring or you can refer me, I'd love to hear from you.
+## 📫 Let's Connect
 
-<br/>
+I'd love to hear from you if your team is hiring.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Message%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sagar-khandekar-623m)
 [![Email](https://img.shields.io/badge/Email-Write%20to%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagarkhandekar012@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" alt="" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:00c6ff&height=110&section=footer" alt="" width="100%"/>
 
 </div>
