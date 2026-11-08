@@ -18,7 +18,7 @@
 </div>
 
 > [!TIP]
-> 🟢 **I'm open to Software Tester / QA Engineer roles and can join immediately.** If your team is hiring, or you can refer me, please reach out
+> 🟢 **I'm open to Software Tester / QA Engineer roles and can join immediately.** If your team is hiring, or you can refer me, please reach out.
 
 ---
 
@@ -54,24 +54,29 @@ Defects tracked in <b>Jira</b> and <b>Bugzilla</b>, APIs checked in <b>Postman</
 
 ## 🗺️ My QA Journey
 
-```mermaid
-timeline
-    title From graduate to automation
-    2024 : Completed BCA
-    Dec 2025 : Joined as a Software Tester
-    2026 : Playwright with POM and hooks : GitHub Actions CI workflow : IBM SQL certification : k6 load testing : Playwright MCP test generation
-```
+<table align="center">
+<tr>
+<td align="center" width="25%" valign="top"><h3>🎓 2024</h3><sub><b>Completed BCA</b></sub></td>
+<td align="center" width="25%" valign="top"><h3>💼 Dec 2025</h3><sub><b>Joined as a Software Tester</b></sub></td>
+<td align="center" width="50%" valign="top"><h3>🚀 2026</h3><sub><b>Playwright with POM and hooks • GitHub Actions CI • IBM SQL certification • k6 load testing • Playwright MCP test generation</b></sub></td>
+</tr>
+</table>
 
 ---
 
 ## 🧭 How I Test
 
-```mermaid
-flowchart LR
-    A["📄 Requirements"] --> B["🔎 Find logic gaps"] --> C["📝 Test cases"] --> D["▶️ Execute"] --> E["🐞 Report defects"] --> F["🔁 Retest + regression"] --> G["🤖 Automate"]
-    classDef n fill:#2575fc,stroke:#6a11cb,color:#ffffff,stroke-width:2px;
-    class A,B,C,D,E,F,G n;
-```
+<table align="center">
+<tr>
+<td align="center" valign="top"><h3>📄</h3><sub><b>1. Requirements</b></sub></td>
+<td align="center" valign="top"><h3>🔎</h3><sub><b>2. Find logic gaps</b></sub></td>
+<td align="center" valign="top"><h3>📝</h3><sub><b>3. Test cases</b></sub></td>
+<td align="center" valign="top"><h3>▶️</h3><sub><b>4. Execute</b></sub></td>
+<td align="center" valign="top"><h3>🐞</h3><sub><b>5. Report defects</b></sub></td>
+<td align="center" valign="top"><h3>🔁</h3><sub><b>6. Retest + regression</b></sub></td>
+<td align="center" valign="top"><h3>🤖</h3><sub><b>7. Automate</b></sub></td>
+</tr>
+</table>
 
 > 🔎 **Question the logic first.** I look for gaps between the intended business logic and what is being built, and raise them before development is approved.
 >
@@ -94,18 +99,26 @@ flowchart LR
 
 **🧪 Testing & Tools**
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Bugzilla](https://img.shields.io/badge/Bugzilla-444444?style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<table>
+<tr>
+<td align="center" width="110"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="48" height="48"/><br/><sub><b>Postman</b></sub></td>
+<td align="center" width="110"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" width="48" height="48"/><br/><sub><b>Jira</b></sub></td>
+<td align="center" width="110"><h2>🐞</h2><sub><b>Bugzilla</b></sub></td>
+<td align="center" width="110"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="48" height="48"/><br/><sub><b>Figma</b></sub></td>
+<td align="center" width="110"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="48" height="48"/><br/><sub><b>Git</b></sub></td>
+</tr>
+</table>
 
 **💻 Languages & Data**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<table>
+<tr>
+<td align="center" width="110"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/><br/><sub><b>JavaScript</b></sub></td>
+<td align="center" width="110"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48"/><br/><sub><b>Java</b></sub></td>
+<td align="center" width="110"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="48" height="48"/><br/><sub><b>SQL</b></sub></td>
+<td align="center" width="110"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="48" height="48"/><br/><sub><b>HTML5</b></sub></td>
+</tr>
+</table>
 
 **📋 Process:** Agile / Scrum • SDLC • STLC • Defect Life Cycle • Test Case Design
 
