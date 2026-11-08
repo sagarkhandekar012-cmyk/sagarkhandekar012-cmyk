@@ -90,12 +90,16 @@ Defects tracked in <b>Jira</b> and <b>Bugzilla</b>, APIs checked in <b>Postman</
 
 **🤖 Automation**
 
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Playwright MCP](https://img.shields.io/badge/Playwright%20MCP-6E40C9?style=for-the-badge)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-FF6600?style=for-the-badge)
-![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+<table>
+<tr>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="Playwright" width="48" height="48"/><br/><sub><b>Playwright</b></sub></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f9e0.svg" alt="Playwright MCP" width="48" height="48"/><br/><sub><b>Playwright MCP</b></sub></td>
+<td align="center" width="110"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="48" height="48"/><br/><sub><b>Selenium</b></sub></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f9ea.svg" alt="TestNG" width="48" height="48"/><br/><sub><b>TestNG</b></sub></td>
+<td align="center" width="110"><img src="https://cdn.simpleicons.org/k6/7D64FF" alt="k6" width="48" height="48"/><br/><sub><b>k6</b></sub></td>
+<td align="center" width="110"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="48" height="48"/><br/><sub><b>GitHub Actions</b></sub></td>
+</tr>
+</table>
 
 **🧪 Testing & Tools**
 
@@ -103,7 +107,7 @@ Defects tracked in <b>Jira</b> and <b>Bugzilla</b>, APIs checked in <b>Postman</
 <tr>
 <td align="center" width="110"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="48" height="48"/><br/><sub><b>Postman</b></sub></td>
 <td align="center" width="110"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" width="48" height="48"/><br/><sub><b>Jira</b></sub></td>
-<td align="center" width="110"><h2>🐞</h2><sub><b>Bugzilla</b></sub></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f41e.svg" alt="Bugzilla" width="48" height="48"/><br/><sub><b>Bugzilla</b></sub></td>
 <td align="center" width="110"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="48" height="48"/><br/><sub><b>Figma</b></sub></td>
 <td align="center" width="110"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="48" height="48"/><br/><sub><b>Git</b></sub></td>
 </tr>
@@ -114,6 +118,7 @@ Defects tracked in <b>Jira</b> and <b>Bugzilla</b>, APIs checked in <b>Postman</
 <table>
 <tr>
 <td align="center" width="110"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/><br/><sub><b>JavaScript</b></sub></td>
+<td align="center" width="110"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48"/><br/><sub><b>TypeScript</b></sub></td>
 <td align="center" width="110"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48"/><br/><sub><b>Java</b></sub></td>
 <td align="center" width="110"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="48" height="48"/><br/><sub><b>SQL</b></sub></td>
 <td align="center" width="110"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="48" height="48"/><br/><sub><b>HTML5</b></sub></td>
