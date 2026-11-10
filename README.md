@@ -18,7 +18,7 @@
 </div>
 
 > [!TIP]
-> 🟢 **I'm open to Software Tester / QA Engineer roles and can join immediately.** If your team is hiring, or you can refer me, please reach out.
+> 🟢 **I'm open to Software Tester / QA Engineer roles and can join immediately.** If your team is hiring, or you can refer me, please reach out..
 
 ---
 
