@@ -1,12 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:00c6ff&height=170&section=header" alt="" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:00c6ff&height=150&section=header" alt="" width="100%"/>
 
-<h1>Hi 👋, I'm Sagar Khandekar</h1>
-<h3>🧪 Software Tester &nbsp;•&nbsp; 🤖 Test Automation &nbsp;•&nbsp; 📈 Load Testing</h3>
+<img src="https://avatars.githubusercontent.com/u/246733805?v=4&s=160" width="130" alt="Sagar Khandekar"/>
 
 <a href="https://github.com/sagarkhandekar012-cmyk">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2575FC&center=true&vCenter=true&width=720&height=50&lines=If+it+can+break%2C+I+want+to+find+it+first;Manual+QA+%26+Test+Automation;Playwright+%7C+Selenium+%7C+k6;AI-assisted+tests+with+Playwright+MCP;Open+to+work+%E2%80%94+Immediate+joiner" alt="If it can break, I want to find it first" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3500&pause=1500&color=2575FC&center=true&vCenter=true&repeat=false&width=720&height=60&lines=Hi+%F0%9F%91%8B%2C+I%27m+Sagar+Khandekar" alt="Hi, I'm Sagar Khandekar" />
+</a>
+
+<a href="https://github.com/sagarkhandekar012-cmyk">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00B8D9&center=true&vCenter=true&width=720&height=40&lines=If+it+can+break%2C+I+want+to+find+it+first;Software+Tester+%7C+Manual+QA+%26+Automation;Playwright+%7C+Selenium+%7C+k6;AI-assisted+tests+with+Playwright+MCP;Open+to+work+%E2%80%94+Immediate+joiner" alt="Software Tester | Manual QA and Automation" />
 </a>
 
 <br/><br/>
@@ -18,9 +21,9 @@
 </div>
 
 > [!TIP]
-> 🟢 **I'm open to Software Tester / QA Engineer roles and can join immediately.** If your team is hiring, or you can refer me, please reach out.
+> 🟢 **I'm open to Software Tester / QA Engineer roles and can join immediately.** Scroll to the bottom for my bug report 😉
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a11cb,50:2575fc,100:00c6ff&height=3" alt="" width="100%"/>
 
 ## 🚀 What I Do
 
@@ -50,7 +53,7 @@ Defects tracked in <b>Jira</b> and <b>Bugzilla</b>, APIs checked in <b>Postman</
 - 📚 **Certified:** SQL and Relational Databases, IBM Skills Network / Cognitive Class
 - 🌱 **Learning:** going deeper into k6, Selenium, TestNG and Java
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a11cb,50:2575fc,100:00c6ff&height=3" alt="" width="100%"/>
 
 ## 🗺️ My QA Journey
 
@@ -62,7 +65,7 @@ Defects tracked in <b>Jira</b> and <b>Bugzilla</b>, APIs checked in <b>Postman</
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a11cb,50:2575fc,100:00c6ff&height=3" alt="" width="100%"/>
 
 ## 🧭 How I Test
 
@@ -84,7 +87,7 @@ Defects tracked in <b>Jira</b> and <b>Bugzilla</b>, APIs checked in <b>Postman</
 >
 > 🤖 **Automate the repeatable.** Login flows, tables, dropdowns and file uploads become Playwright tests I can re-run any time.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a11cb,50:2575fc,100:00c6ff&height=3" alt="" width="100%"/>
 
 ## 🛠️ Tech Stack
 
@@ -127,7 +130,7 @@ Defects tracked in <b>Jira</b> and <b>Bugzilla</b>, APIs checked in <b>Postman</
 
 **📋 Process:** Agile / Scrum • SDLC • STLC • Defect Life Cycle • Test Case Design
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a11cb,50:2575fc,100:00c6ff&height=3" alt="" width="100%"/>
 
 ## 📂 Featured Projects
 
@@ -142,16 +145,32 @@ Defects tracked in <b>Jira</b> and <b>Bugzilla</b>, APIs checked in <b>Postman</
 | 🔍 [**anudeep-assingnment**](https://github.com/sagarkhandekar012-cmyk/anudeep-assingnment) | Testing code for a website assignment using different testing methods | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square) |
 | 📋 [**manual_testcases_on_bigsunpage**](https://github.com/sagarkhandekar012-cmyk/manual_testcases_on_bigsunpage) | Manual test cases written for the BigSun Technologies website | ![Manual](https://img.shields.io/badge/Manual%20Testing-2ea44f?style=flat-square) |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a11cb,50:2575fc,100:00c6ff&height=3" alt="" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a11cb,50:2575fc,100:00c6ff&height=3" alt="" width="100%"/>
+
+## 🐞 Bug Report: HIRE-001
+
+| Field | Details |
+|---|---|
+| **Title** | A motivated QA tester is available, but not on your team yet |
+| **Severity** | 🔴 High: untested edge cases may be shipping right now |
+| **Priority** | ⚡ Immediate: can join immediately |
+| **Environment** | Mumbai • open to anywhere in India • remote OK |
+| **Steps to reproduce** | 1. Open LinkedIn or email<br/>2. Say hello<br/>3. Schedule an interview |
+| **Expected result** | Sagar joins your QA team |
+| **Actual result** | Still open to work 🙂 |
+| **Status** | 🟢 **Open** |
 
 <div align="center">
 
-## 📫 Let's Connect
-
-I'd love to hear from you if your team is hiring.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Message%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sagar-khandekar-623m)
 [![Email](https://img.shields.io/badge/Email-Write%20to%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagarkhandekar012@gmail.com)
+
+<br/>
+
+> 🍺 *A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 99999999 beers. Orders -1 beers. Orders a lizard.*
+> *Then the first real customer walks in and asks where the bathroom is, and the bar bursts into flames.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:00c6ff&height=110&section=footer" alt="" width="100%"/>
 
