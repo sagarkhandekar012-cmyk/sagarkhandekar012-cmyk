@@ -21,7 +21,7 @@
 </div>
 
 > [!TIP]
-> 🟢 **I'm open to Software Tester / QA Engineer roles and can join immediately.** Scroll to the bottom for my bug report 😉 .
+> 🟢 **I'm open to Software Tester / QA Engineer roles and can join immediately.** Scroll to the bottom for my bug report 😉
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a11cb,50:2575fc,100:00c6ff&height=3" alt="" width="100%"/>
 
